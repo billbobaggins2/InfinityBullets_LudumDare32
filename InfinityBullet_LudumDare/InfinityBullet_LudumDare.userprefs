@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyShootScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TeleportationScript.cs" Line="11" Column="26" />
+      <File FileName="Assets\Scripts\BulletRicochetScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShootingScript.cs" Line="25" Column="21" />
+      <File FileName="Assets\Scripts\DeathRespawnScript.cs" Line="53" Column="32" />
+      <File FileName="Assets\Scripts\EnemyShotScript.cs" Line="26" Column="8" />
+      <File FileName="Assets\Scripts\MovementScript.cs" Line="63" Column="20" />
+      <File FileName="Assets\Scripts\EnemyShootScript.cs" Line="19" Column="28" />
+      <File FileName="Assets\Scripts\Uiscripts\HowtoplayScreen.cs" Line="8" Column="5" />
+      <File FileName="Assets\Scripts\FollowBullet.cs" Line="10" Column="21" />
+      <File FileName="Assets\Scripts\Uiscripts\StartButtonScript.cs" Line="44" Column="30" />
+      <File FileName="Assets\Scripts\DestroyAllBulletsScript.cs" Line="18" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
